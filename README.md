@@ -12,13 +12,13 @@ We are going to create a CRUD app using our knowledge of _routes_ and _controlle
 
 #### 1. Index
 
-* In the `index.js` file, import and use the `bodyParser` in order to ensure that the body from our POST requests is appropriately cast to JSON.
+<!-- * In the `index.js` file, import and use the `bodyParser` in order to ensure that the body from our POST requests is appropriately cast to JSON. -->
 
 #### 2. Routes
 
-We will create five routes. The data for these routes is provided in the `data` folder. It is up to you to make use of this data correctly. For the POST route you may import and use the `sampleUser` file instead of creating a user manually.
+<!-- We will create five routes. The data for these routes is provided in the `data` folder. It is up to you to make use of this data correctly. For the POST route you may import and use the `sampleUser` file instead of creating a user manually.
 
-* Create a `routes` folder to hold our routes. Underneath make a file called `users.js` to represent the users router
+* Create a `routes` folder to hold our routes. Underneath make a file called `users.js` to represent the users router -->
 
 * Create the following routes inside `users.js`
 
